@@ -1,0 +1,2 @@
+Works by this person are generally in the public domain in Canada. Works by this person are not in the public domain in countries with a life+70 copyright term (including all EU countries), unless an exception applies. In the United States, all works first published before 1931 are in the public domain; works first published afterwards may be protected by copyright. See [public domain](https://imslp.org/wiki/Public_domain) for more information.
+Works by this person may not be in the public domain in all countries. Please check the copyright laws of your country.
