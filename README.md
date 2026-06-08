@@ -2,7 +2,7 @@
 
 > Public domain works of Percy Aldridge Grainger in MusicXML and MSCZ formats.
 
-![GitHub stars](https://img.shields.io/github/stars/bonillamusic/GraingerXML?style=for-the-badge&logo=github) ![GitHub forks](https://img.shields.io/github/forks/bonillamusic/GraingerXML?style=for-the-badge&logo=github) ![GitHub issues](https://img.shields.io/github/issues/bonillamusic/GraingerXML?style=for-the-badge&logo=github) ![Last commit](https://img.shields.io/github/last-commit/bonillamusic/GraingerXML?style=for-the-badge&logo=github) ![License](https://img.shields.io/badge/license-LICENSE-green?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/bonillamusic/GraingerXML?style=for-the-badge&logo=github) ![GitHub forks](https://img.shields.io/github/forks/bonillamusic/GraingerXML?style=for-the-badge&logo=github) ![GitHub issues](https://img.shields.io/github/issues/bonillamusic/GraingerXML?style=for-the-badge&logo=github) ![Last commit](https://img.shields.io/github/last-commit/bonillamusic/GraingerXML?style=for-the-badge&logo=github)
 
 ## 📑 Table of Contents
 
