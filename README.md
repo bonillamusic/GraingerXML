@@ -6,13 +6,13 @@
 
 ## 📑 Table of Contents
 
-- [Description](#description)
-- [Key Features](#key-features)
-- [Use Cases](#use-cases)
-- [Quick Start](#quick-start)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
+- [Description](#-description)
+- [Key Features](#-key-features)
+- [Use Cases](#-use-cases)
+- [Quick Start](#-quick-start)
+- [Project Structure](#-project-structure)
+- [Contributing](#-contributing)
+- [License](#-license)
 - [Public Domain Notice](#public-domain-notice)
 
 ## 📝 Description
