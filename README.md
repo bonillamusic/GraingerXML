@@ -28,7 +28,7 @@ GraingerXML is a dedicated digital archive containing the public domain musical 
 
 - Musicians wanting to study, rehearse, or perform digitized scores of Percy Aldridge Grainger's compositions.
 - Music theorists and researchers performing computational musicology analysis on structured MusicXML data.
-- Composers and arrangers seeking editable MuseScore files to adapt or rearrange Grainger's works for different ensembles.
+- Composers and arrangers seeking editable digital files to adapt or rearrange Grainger's works for different ensembles.
 
 ## 📁 Project Structure
 
