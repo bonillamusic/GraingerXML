@@ -36,10 +36,11 @@ GraingerXML is a dedicated digital archive containing the public domain musical 
 .
 ├── LICENSE
 ├── MSCZ
-│   ├── Two Musical Relics of My Mother.mscz
-│   └── index
-└── MusicXML
-    └── Two Musical Relics of My Mother.musicxml
+│   └── Two Musical Relics of My Mother.mscz
+│   
+├── MusicXML
+│   └── Two Musical Relics of My Mother.musicxml
+└── roadmap.md
 ```
 
 ## 👥 Contributing
